@@ -29,13 +29,11 @@
 
 <br />
 
-### Github Stats:
-
   <img align="left" alt="Joe's Github Stats" src="https://github-stats.joeavargas.vercel.app/api?username=joeavargas&show_icons=true&hide_border=true" />
   
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
-### GitHub Activity:
+### Recent GitHub Activity:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#9](https://github.com//joeavargas/Uber/pull/9) in [joeavargas/Uber](https://github.com//joeavargas/Uber)
 2. 💪 Opened PR [#9](https://github.com//joeavargas/Uber/pull/9) in [joeavargas/Uber](https://github.com//joeavargas/Uber)
