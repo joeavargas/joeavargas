@@ -31,7 +31,7 @@
 
   <img align="left" alt="Joe's Github Stats" src="https://github-stats.joeavargas.vercel.app/api?username=joeavargas&show_icons=true&hide_border=true" />
   
-<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ### Recent GitHub Activity:
 <!--START_SECTION:activity-->
