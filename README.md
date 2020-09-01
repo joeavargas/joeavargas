@@ -28,14 +28,6 @@
 
 <br />
 
-### GitHub Activity
-<img align="left" alt="Joe's Github Stats" src="https://github-readme-stats.joeavargas.vercel.app/api?username=joeavargas_icons=true&hide_border=true" />
-
-### GitHub Stats
-
-<br />
-<br />
-
 [website]: https://joevargas.io
 [twitter]: https://twitter.com/joeavargas
 [instagram]: https://instagram.com/jvargas84
