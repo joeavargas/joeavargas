@@ -4,7 +4,7 @@
 ### I'm an aspiring iOS Developer 💻📲, craft beer connoisseur 🍺 and sports fan! 🏀🏈⚾️
 
 - 🚘 I’m currently working on an [Uber clone] app [https://github.com/joeavargas/Uber]!
-- 👨🏻‍💻 I love experimenting and using CoreLocation 🌐 and API GET calling 🗣
+- 👨🏻‍💻 I love experimenting and using CoreLocation 🌐 and API calling 🗣
 - 👊🏼 I’m looking to collaborate with other content creators
 - 🏁 2020 Goals: Publish an app that fellow crawfish-lovin Houstonians will love 😏🦞 and collaborate with other aspiring iOS Developers
 - ⚡ Fun fact: I was never a fan of coding many moons ago but now it's a passion of mine 💙
