@@ -29,7 +29,7 @@
 <br />
 
 ### GitHub Activity
-<img align="left" alt="Joe's Github Stats" src="https://github-readme-stats-git-master.joeavargas.vercel.app/api?username=joeavargas_icons=true&hide_border=true" />
+<img align="left" alt="Joe's Github Stats" src="https://github-readme-stats.joeavargas.vercel.app/api?username=joeavargas_icons=true&hide_border=true" />
 
 ### GitHub Stats
 
