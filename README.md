@@ -3,7 +3,7 @@
 
 ### I'm an aspiring iOS Developer 💻📲, craft beer connoisseur 🍺 and sports fan! 🏀🏈⚾️
 
-- 🚘 I’m currently working on an [Uber clone][uber_clone] app
+- 🚘 I’m currently working on an [Uber clone][Uber] app
 - 👨🏻‍💻 I love experimenting and using CoreLocation 🌐 and API calling 🗣
 - 👊🏼 I’m looking to collaborate with other content creators
 - 🏁 2020 Goals: Publish an app that fellow crawfish-lovin Houstonians will love 😏🦞 and collaborate with other aspiring iOS Developers
@@ -44,7 +44,7 @@
 5. 🎉 Merged PR [#7](https://github.com//joeavargas/Uber/pull/7) in [joeavargas/Uber](https://github.com//joeavargas/Uber)
 <!--END_SECTION:activity-->
 
-[uber_clone]: [https://github.com/joeavargas/Uber]
+[Uber]: [https://github.com/joeavargas/Uber]
 [website]: https://joevargas.io
 [twitter]: https://twitter.com/joeavargas
 [instagram]: https://instagram.com/jvargas84
