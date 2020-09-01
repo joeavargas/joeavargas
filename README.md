@@ -37,6 +37,12 @@
 
 ### GitHub Activity:
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#9](https://github.com//joeavargas/Uber/pull/9) in [joeavargas/Uber](https://github.com//joeavargas/Uber)
+2. 💪 Opened PR [#9](https://github.com//joeavargas/Uber/pull/9) in [joeavargas/Uber](https://github.com//joeavargas/Uber)
+3. 🎉 Merged PR [#8](https://github.com//joeavargas/Uber/pull/8) in [joeavargas/Uber](https://github.com//joeavargas/Uber)
+4. 💪 Opened PR [#8](https://github.com//joeavargas/Uber/pull/8) in [joeavargas/Uber](https://github.com//joeavargas/Uber)
+5. 🎉 Merged PR [#7](https://github.com//joeavargas/Uber/pull/7) in [joeavargas/Uber](https://github.com//joeavargas/Uber)
+<!--END_SECTION:activity-->
 
 [website]: https://joevargas.io
 [twitter]: https://twitter.com/joeavargas
