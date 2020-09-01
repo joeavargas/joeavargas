@@ -41,6 +41,4 @@
 [instagram]: https://instagram.com/jvargas84
 [linkedin]: https://www.linkedin.com/in/joeavargas/
 
-<!-- Github PAT -->
-c42bfd2949a3a720fb1d48823b437ae4bf24803d
 
