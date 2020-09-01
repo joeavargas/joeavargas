@@ -1,7 +1,7 @@
 ### Hi there, I'm Joe! 👋
 
 
-## I'm an aspiring iOS Developer 💻📲, craft beer connoisseur 🍺 and Houston sports fan! 🏀🏈⚾️
+### I'm an aspiring iOS Developer 💻📲, craft beer connoisseur 🍺 and sports fan! 🏀🏈⚾️
 
 - 🚘 I’m currently working on an [Uber clone] app [https://github.com/joeavargas/Uber]!
 - 👨🏻‍💻 I love experimenting and using CoreLocation 🌐 and API GET calling 🗣
