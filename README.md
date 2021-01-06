@@ -6,7 +6,7 @@
 - 💻📲 I’m currently enrolled in [Devslopes iOS Academy][Devslopes iOS Academy] 
 - 👨🏻‍💻 I love experimenting and using CoreLocation 🌐 and API calling 🗣
 - 👊🏼 I’m looking to collaborate with other content creators
-- 🏁 2020 Goals: Publish an app that fellow crawfish-lovin Houstonians will love 😏🦞 and collaborate with other aspiring iOS Developers
+- 🏁 2021 Goals: Publish an app that fellow crawfish-lovin Houstonians will love 😏🦞 and collaborate with other aspiring iOS Developers
 - ⚡ Fun fact: I was never a fan of coding many moons ago but now it's a passion of mine 💙
 
 ### Connect with me:
