@@ -12,6 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -43,9 +44,9 @@
 
 [Devslopes iOS Academy]: [https://devslopes.com/]
 [Uber]: [https://github.com/joeavargas/Uber]
-[website]: https://joevargas.io
+[website]: https://joeavargas.medium.com/
 [twitter]: https://twitter.com/joeavargas
 [instagram]: https://instagram.com/jvargas84
-[linkedin]: https://www.linkedin.com/in/joeavargas/
+[linkedin]: https://www.linkedin.com/in/joeavargas_/
 
 
