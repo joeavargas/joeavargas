@@ -1,7 +1,7 @@
 ### Hi there, I'm Joe! 👋
 
 
-### I'm an aspiring iOS Developer 💻📲, craft beer connoisseur 🍺 and sports fan! 🏀🏈⚾️
+### I'm an iOS Developer 💻📲, craft beer connoisseur 🍺 and sports fan! 🏀🏈⚾️
 
 - 💻📲 I’m currently enrolled in [Devslopes iOS Academy][Devslopes iOS Academy] 
 - 👨🏻‍💻 I love experimenting and using CoreLocation 🌐 and API calling 🗣
