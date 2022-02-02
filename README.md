@@ -37,6 +37,6 @@
 [website]: https://joeavargas.medium.com/
 [twitter]: https://twitter.com/joeavargas
 [instagram]: https://instagram.com/joeavargas_
-[linkedin]: https://www.linkedin.com/in/joeavargas_/
+[linkedin]: https://www.linkedin.com/in/joeavargas/
 
 
